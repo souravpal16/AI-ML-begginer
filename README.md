@@ -1,2 +1,2 @@
 # AI-ML-begginer
-introductory level ML models
+Introductory level ML models
